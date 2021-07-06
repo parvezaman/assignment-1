@@ -41,10 +41,8 @@ p{
     box-shadow: 0px 0px 21px orangered; 
 }
 #calorie-calulator{
-    display: block;
-    margin-left:auto;
-    margin-right:auto;
-    width: 11%;
+    margin-left: 50%;
+   
 }
 .about-section{
     background-image: url(./images/shapes/7.png);
