@@ -1,0 +1,37 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
+
+}
+.flexible-section{
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.especial-color{
+    color: salmon;
+}
+h1{
+    font-size:55px;
+    color: #
+    575757;
+}
+.half-way{
+    width: 50%;
+    margin: 0px 5%;
+
+}
+.half-way img{
+    width: 100%;
+}
+.button-style{
+    
+    border-radius: 15px;
+    padding: 7px 21px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #ff6600 0%, #ff9900 100%);
+    box-shadow: 0px 0px 21px orangered; 
+}
+.about-section{
+    background-image: url(./images/shapes/7.png);
+}
